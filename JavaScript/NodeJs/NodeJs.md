@@ -69,3 +69,4 @@ $ node server.js
 ## 출처
 
 [[Node] Node.js 이해하기-1(정의, 장단점)](https://adjh54.tistory.com/44#)
+[[번역] Node.js 비동기 흐름 제어 및 이벤트 루프](https://velog.io/@surim014/nodejs-asynchronous-flow-control-and-event-loop)
