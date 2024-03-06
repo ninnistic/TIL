@@ -5,6 +5,7 @@ Today I Learnt
 ## React
 
 - [Why use useCallback, React.memo, useMemo?](./React/UseCallback_memo/UseCallback_memo.md)
+- [Understanding Thread in React](./React/Rendering/Rendering.md)
 
 ## Web
 
